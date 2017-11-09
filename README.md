@@ -1,3 +1,4 @@
-
 #   P B M  
  
+
+Passchain Border Management(PBM) provides a full range of blockchain technology solutions for border management headquarters (HQ) and border control points (BCPs). Border agencies are being asked to cope with a rapid increase in traveler numbers and, within new security and cost constraints, to facilitate a swift and secure passenger experience. They are requested to boost legitimate trade and travel, prevent illegal immigration or identity fraud, and tighten security measures at border crossings. The Passchain protocol will help border agencies to collaborate and store the border crossings data in a secure and effective way. We are going to build Passchain protocol with Hyperledger Fabric using Docker. The smart contracts will be developed with Chaincode; every country will add it’s smart contracts on the blockchain with it’s rules and conditions. In addition, we are going to use IBM machine learning engine in order to build smart algorithm that will calculate the past unusual events and criminals behavior and will predict if citizen is legit or not by the exist data stored in the blockchain.
